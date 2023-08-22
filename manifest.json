@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Change Google Search Language in 1 second",
+    "description": "A light extension to limit Google search language.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "lan.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
